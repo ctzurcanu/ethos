@@ -9,6 +9,8 @@ keywords: [ethics, empathy, ethos, phylogeny]
 
 # Phylogeny
 
+## Attributes
+
 1. (existence) [Minimal](minimal.md)
     1. (responsibility) [Responsible](responsible.md)
         1. [Responsible for Others](resp_others.md)
@@ -41,7 +43,7 @@ keywords: [ethics, empathy, ethos, phylogeny]
                     1. Accepting of [Law](law.md)
                     1. Accepting of [Representation](representation.md)
 
-## [5 Traits](https://en.wikipedia.org/wiki/Big_Five_personality_traits) Connection
+## The [5 Traits](https://en.wikipedia.org/wiki/Big_Five_personality_traits)
 
 | attribute      | role          | OCEAN                 | measures               |
 |----------------|---------------|-----------------------|------------------------|
@@ -51,6 +53,7 @@ keywords: [ethics, empathy, ethos, phylogeny]
 | cooperative    |  friend       | (A) agreeableness     | kindness, helpfulness, and willingness to cooperate |
 | provability    |  witness      | (N) neuroticism       | depression, irritability, and moodiness |
 
+## The 5 Roles
 
 ### Friend
 
@@ -58,10 +61,8 @@ An ethical friend has the role to allow you to be aligned with your ethos. A fri
 
 ![Friend](/images/friend.png)
 
-#### Subroles
-
-- companion
-- judge of intent alignment with ethos
+#### companion
+#### judge of intent alignment with ethos
 
 ### Witness
 
@@ -69,10 +70,8 @@ An ethical witness has the role of producing or composing ethical proofs.
 
 ![Witness](/images/witness.png)
 
-#### Subroles
-
-- proof composer
-- judge of real output alignment with ethos
+#### proof composer
+#### judge of real output alignment with ethos
 
 ### Ambassador
 
@@ -80,10 +79,8 @@ An ethical ambassador discovers and maintains a cycle of exchange between 2 etho
 
 ![Ambassador](/images/ambassador.png)
 
-#### Subroles
-
-- trader
-- negotiator of price
+#### trader
+#### negotiator of price
 
 ### Arbiter
 
@@ -91,10 +88,8 @@ An ethical arbiter discovers the common ethos between 2 other ethoses and tries 
 
 ![Arbiter](/images/arbiter.png)
 
-#### Subroles
-
-- peacemaker
-- judge of ethos
+#### peacemaker
+#### judge of ethos
 
 ### Hero
 
@@ -103,8 +98,6 @@ An ethical hero is a model of living an ethos. A hero is also shaping an ethos a
 ![Hero](/images/hero.png)
 
 
-#### Subroles
-
-- moral influencer
-- artist
-- philosopher
+#### moral influencer
+#### artist
+#### philosopher

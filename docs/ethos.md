@@ -1,7 +1,7 @@
 ---
 layout: default
 title: My Ethos
-sidebar_position: 4
+sidebar_position: 2
 description: My Ethos
 keywords: [meta ethos, ethos]
 ---
@@ -11,7 +11,7 @@ keywords: [meta ethos, ethos]
 
   - in [JSON form](/ethos.json)
 
-## Classified Declarations
+## Ethical Declarations
 
 1. (existence) [Minimal](/phylogeny/minimal.md)
     1. `golden_rule_negative`: I do not do to others what I do not wish done to myself.
@@ -77,14 +77,6 @@ keywords: [meta ethos, ethos]
 1. Accepting of [Representation](/phylogeny/representation.md)
     1. `representation`: If the result of voting (formally provable) is a role of representation, my ethos accepts the representant's decisions as a shortcut for voting.
 
-## Definitions
-
-- ethos_ct1 (henceforth: the ethos): The set of beliefs and rational conclusions that I want to motivate my actions. An ethos has to be internally-consistent.
-- golden_rule_negative_ct1 (henceforth: the negative golden rule): I do not do to others what I do not wish done to myself.
-- golden_rule_positive_ct1 (henceforth: the positive golden rule): What I wish done to myself, I do to others.
-- categorical_imperative_ct1 (henceforth: the categorical imperative): I act as if the maxims of my action were to become through my will a universal law of nature.
-- other_ethos_ack_ct1 (henceforth: acknowledgement of the existence of another ethos): I acknowledge the existence of other ethos(es) than mine.
-- judge_invite_ct1 (henceforth: judgement invitation): I make myself subject of my own declarations and invite others who do the same to judge me by them.
 
 ### Virtues
 

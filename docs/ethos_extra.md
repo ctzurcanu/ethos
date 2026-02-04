@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Meta Ethos
-sidebar_position: 3
+sidebar_position: 5
 description: Meta Ethos
 keywords: [meta ethos, ethos]
 ---
