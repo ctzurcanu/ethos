@@ -30,6 +30,7 @@ keywords: [ethics, empathy, ethos, phylogeny]
     1. (cooperative) [Joinable](joinable.md)
         1. [Non-binding](non-binding.md)
             1. [Respectuous](respectuous.md)
+                1. [Constructive](constructive.md)
                 1. [Alignable](alignable.md)
                     1. [Impartial](impartial.md)
                         1. [Generous](generous.md)
@@ -53,9 +54,14 @@ keywords: [ethics, empathy, ethos, phylogeny]
 
 ### Friend
 
-An ethical friend has the role to allow you to be aligned with your ethos. A friend may have the same ethos with you or a different ethos.
+An ethical friend has the role to allow you to be aligned with your ethos. A friend may have the same ethos as you or a different ethos.
 
 ![Friend](/images/friend.png)
+
+#### Subroles
+
+- companion
+- judge of intent alignment with ethos
 
 ### Witness
 
@@ -63,11 +69,32 @@ An ethical witness has the role of producing or composing ethical proofs.
 
 ![Witness](/images/witness.png)
 
+#### Subroles
+
+- proof composer
+- judge of real output alignment with ethos
+
 ### Ambassador
 
 An ethical ambassador discovers and maintains a cycle of exchange between 2 ethoses.
 
 ![Ambassador](/images/ambassador.png)
+
+#### Subroles
+
+- trader
+- negotiator of price
+
+### Arbiter
+
+An ethical arbiter discovers the common ethos between 2 other ethoses and tries to bring them to accept or clearly reject the proposed declaration.
+
+![Arbiter](/images/arbiter.png)
+
+#### Subroles
+
+- peacemaker
+- judge of ethos
 
 ### Hero
 
@@ -75,3 +102,9 @@ An ethical hero is a model of living an ethos. A hero is also shaping an ethos a
 
 ![Hero](/images/hero.png)
 
+
+#### Subroles
+
+- moral influencer
+- artist
+- philosopher
