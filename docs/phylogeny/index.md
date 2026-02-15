@@ -101,3 +101,14 @@ An ethical hero is a model of living an ethos. A hero is also shaping an ethos a
 #### moral influencer
 #### artist
 #### philosopher
+
+
+## Ethically-Complete Ethos
+
+The stages of ethos are:
+
+| level | stage          | ethical attributes                           |
+|-------|----------------|----------------------------------------------|
+| 0.    | Extant         | + [Minimal](minimal.md) <br/> (no attributes) |
+| 1.    | Complete | + [Hero](heroic.md) <br/>  + [Ambassador](als_resources.md)<br/> + [Arbitrer](arbitrage.md) <br/> + [Constructive](constructive.md)<br/> +  [Witnesses](witnesses.md) <br/> - complete ecosystem   |
+| 2.    | Extraordinary  | WIP   |
